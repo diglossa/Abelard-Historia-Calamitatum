@@ -1,0 +1,71 @@
+---
+author: 
+  lang: la
+  url: Abelard
+  nic: abelard
+  ru: Петр Абеляр
+  en: Petrus Abaelardus
+
+translators:
+  - nic: sokolov
+    lang: ru
+    ru: В. А. Соколов
+    en: V.A. Sokolov
+  - nic: bellows
+    lang: en
+    en: H.A. Bellows
+    ru: Х.А. Беллоуз
+
+tree: 
+  url: Historia Calamitatum
+  en: The Story of My Misfortunes
+  ru: История моих бедствий
+  children:
+    - url: Foreword
+      en: Foreword
+      ru: Предисловие
+    - url: Caput 1
+      en: Chapter 1. Of the birthplace of pierre abélard and of his parents
+      ru: Глава 1
+    - url: Caput 2
+      en: Chapter 2. Of the persecution he had from his master william of champeaux
+      ru: Глава 2
+    - url: Caput 3
+      en: Chapter 3. Of how he came to laon to seek anselm as teacher
+      ru: Глава 3
+    - url: Caput 4
+      en: Chapter 4. Of the persecution he had from his master william of champeaux
+      ru: Глава 4
+    - url: Caput 5
+      en: Chapter 5. Of how he returned to paris and finished the glosses which he had begun at laon
+      ru: Глава 5
+    - url: Caput 6
+      en: Chapter 6. Of how, brought low by his love for héloďse, he was wounded in body and soul
+      ru: Глава 6
+    - url: Caput 7
+      en: Chapter 7. Of the arguments of héloďse against wedlock--of how none the less he made her his wife
+      ru: Глава 7
+    - url: Caput 8
+      en: Chapter 8. Of the suffering of his body--of how he became a monk in the monastery of st. denis and héloďse a nun at argenteuil
+      ru: Глава 8
+    - url: Caput 9
+      en: Chapter 9. Of his book on theology and his persecution at the hands of his fellow students--of the council against him
+      ru: Глава 9
+    - url: Caput 10
+      en: Chapter 10. Of the burning of his book--of the persecution he had at the hands of his abbot and the brethren
+      ru: Глава 10
+    - url: Caput 11
+      en: Chapter 11. Of his teaching in the wilderness
+      ru: Глава 11
+    - url: Caput 12
+      en: Chapter 12. Of the persecution directed against him by sundry new enemies or, as it were, apostles
+      ru: Глава 12
+    - url: Caput 13
+      en: Chapter 13. Of the abbey to which he was called and of the persecution he had from his sons, that is to say the monks, and from the lord of the land
+      ru: Глава 13
+    - url: Caput 14
+      en: Chapter 14. Of the evil report of his iniquity
+      ru: Глава 14
+    - url: Caput 15
+      en: Chapter 15. Of the perils of his abbey and of the reasons for the writing of this his letter
+      ru: Глава 15
